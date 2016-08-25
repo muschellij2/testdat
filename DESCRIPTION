@@ -2,7 +2,7 @@ Package: testdat
 Title: A suite for running automated tests for data
 Description: A suite for running automated tests to detect common problems with
     tabular data
-Version: 0.2.0.0.dev
+Version: 0.3
 Authors@R: c(person("Karthik", "Ram", role = c("aut", "cre"), email =
     "karthik.ram@gmail.com"),
     person("Hilary", "Parker", role="aut"),
